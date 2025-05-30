@@ -36,4 +36,4 @@ git clone https://github.com/Maria/BigBiteDonuts.git
 📱 Versão mobile otimizada
 
 📩 Contato
-Desenvolvido por Maria 📧 Email: maria.camporprofeta@gmail.comm💻 GitHub: Mariaclara2005
+Desenvolvido por Maria 📧 Email: maria.camposprofeta@gmail.comm💻 GitHub: Mariaclara2005
